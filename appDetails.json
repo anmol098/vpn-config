@@ -2,9 +2,9 @@
   "ads":"true",
   "update":[{
     "version":"0.1",
-    "title":"This app is now Open Source",
-    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
-    "size":"https://git.io/JeY69"
+    "title":"Thank you for downloading the app",
+    "description":"",
+    "size":""
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
