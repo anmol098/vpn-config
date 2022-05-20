@@ -1,7 +1,7 @@
 {
   "ads":"true",
   "update":[{
-    "version":"0.4",
+    "version":"0.5",
     "serverUpdate":true,
     "title":"A new App Update is Available !!",
     "description":"We Have Fixed VPN not connecting for all servers. and other minor fixes",
