@@ -3,8 +3,8 @@
   "update":[{
     "version":"0.5",
     "title":"A new App Update is Available !!",
-    "description":"We Have Fixed VPN not connecting for all servers. and other minor fixes",
-    "size":"4 Mb"
+    "description":"We have fixed VPN not connecting issue and other minor fixes and performance upgrades",
+    "size":"Size: 4 MB"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
